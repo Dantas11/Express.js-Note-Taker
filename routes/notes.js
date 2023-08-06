@@ -6,6 +6,17 @@ notes.get('/', (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
   })
 
+notes.delete('/:id', (req, res) => {
+  const noteId = req.params.id;
+  readFromFile('./db/db.json')
+    .then((data) => JSON.parse(data))
+    .then((json) => {
+      const result = json.filter((note) => note.id !== noteId);
+      writeToFile('./db/db.json', result);
+      return res.json(result);
+    });
+});  
+
 notes.post('/', (req, res) => {
   const { title, text, id } = req.body;
   if (req.body) {
