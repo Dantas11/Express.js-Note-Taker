@@ -24,6 +24,8 @@ After installing the dependencies, run the application with:
 
 npm start
 
+Link for webpage: https://frozen-peak-94899-bbaa59a13f30.herokuapp.com/
+
 ## Licence
 
 n/a
