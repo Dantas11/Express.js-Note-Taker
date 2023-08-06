@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": "8446c5c7-9ef3-4108-bc9f-d4a179a917af",
+        "title": "World Cup",
+        "text": "Sweden x EUA Sunday-7:00pm "
+    },
+    {
+        "id": "f9eb8828-e11c-4312-bc4b-2015145d9d67",
+        "title": "Bootcamp Class",
+        "text": "Day 3 Module 12 Monday 6:30pm"
+    },
+    {
+        "id": "96adf1fb-a681-4b70-8ffc-752b2b8d1425",
+        "title": "Dentist",
+        "text": "Friday 3:30pm"
+    }
+]
