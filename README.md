@@ -12,7 +12,7 @@ SO THAT I don't have to pay a graphic designer
 
 ## SCREENSHOTS
 
-![Note Take](https://github.com/Dantas11/OOP-SVG-Logo-Maker/blob/main/images/command-line-application.png)
+![Note Take](https://github.com/Dantas11/Express.js-Note-Taker/blob/main/public/assets/images/note-taker.png)
 
 ## Installation
 
