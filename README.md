@@ -2,13 +2,13 @@
 
 ## Project Description
 
-The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image. User can choose up tp 3 letters or numbers, text colour, backgroung colour and logo shape.
+The application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## User Story
 
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## SCREENSHOTS
 
@@ -16,17 +16,13 @@ SO THAT I don't have to pay a graphic designer
 
 ## Installation
 
-To install dependencies, open a integrated terminal and run:
-
-npm i
+Download and install Node.js and npm
 
 ## Usage
 
 After installing the dependencies, run the application with:
 
 npm start
-
-URL for page:
 
 ## Licence
 
